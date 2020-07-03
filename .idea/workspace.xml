@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/BonusBinarySearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +38,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Snvdtr8oVEcWvMSjy8Jh12C3wW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.BalancedBracketsTest.emptyTest">
+  <component name="RunManager" selected="JUnit.BonusBinarySearchTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -80,6 +94,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BonusBinarySearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="junit-studio-lc101" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.BonusBinarySearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -105,8 +135,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.BalancedBracketsTest" />
+      <item itemvalue="JUnit.BalancedBracketsTest.emptyTest" />
+      <item itemvalue="JUnit.BonusBinarySearchTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BonusBinarySearchTest" />
         <item itemvalue="JUnit.BalancedBracketsTest.emptyTest" />
         <item itemvalue="JUnit.BalancedBracketsTest" />
       </list>
@@ -124,5 +160,38 @@
       <updated>1572212264650</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1879" y="109" key="#Project_Structure" timestamp="1593736990508">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state x="1879" y="109" key="#Project_Structure/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593736990508" />
+    <state width="1827" height="266" key="GridCell.Tab.0.bottom" timestamp="1593739188077">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593739188077" />
+    <state width="1827" height="266" key="GridCell.Tab.0.center" timestamp="1593739188076">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.center/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593739188076" />
+    <state width="1827" height="266" key="GridCell.Tab.0.left" timestamp="1593739188076">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.left/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593739188076" />
+    <state width="1827" height="266" key="GridCell.Tab.0.right" timestamp="1593739188077">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.right/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593739188077" />
   </component>
 </project>
