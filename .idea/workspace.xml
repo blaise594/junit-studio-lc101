@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BalancedBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,26 +21,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Snvdtr8oVEcWvMSjy8Jh12C3wW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.BalancedBracketsTest.emptyTest">
+  <component name="RunManager" selected="JUnit.BalancedBracketsTest">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -65,16 +68,20 @@
     </configuration>
     <configuration name="BalancedBracketsTest.emptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="junit-studio-lc101" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-14" />
       <option name="PACKAGE_NAME" value="test" />
       <option name="MAIN_CLASS_NAME" value="test.BalancedBracketsTest" />
       <option name="METHOD_NAME" value="emptyTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,10 +112,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="JUnit.BalancedBracketsTest" />
+      <item itemvalue="JUnit.BalancedBracketsTest.emptyTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BalancedBracketsTest.emptyTest" />
         <item itemvalue="JUnit.BalancedBracketsTest" />
+        <item itemvalue="JUnit.BalancedBracketsTest.emptyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -124,5 +135,31 @@
       <updated>1572212264650</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1879" y="157" key="#Project_Structure" timestamp="1593731937956">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state x="1879" y="157" key="#Project_Structure/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593731937956" />
+    <state x="1856" y="237" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593731903565">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state x="1856" y="237" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593731903565" />
+    <state width="1827" height="266" key="GridCell.Tab.0.bottom" timestamp="1593735969663">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.bottom/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593735969663" />
+    <state width="1827" height="266" key="GridCell.Tab.0.center" timestamp="1593735969661">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.center/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593735969661" />
+    <state width="1827" height="266" key="GridCell.Tab.0.left" timestamp="1593735969660">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.left/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593735969660" />
+    <state width="1827" height="266" key="GridCell.Tab.0.right" timestamp="1593735969662">
+      <screen x="1440" y="23" width="1920" height="1007" />
+    </state>
+    <state width="1827" height="266" key="GridCell.Tab.0.right/0.23.1440.877/3360.-25.1280.1001/3360.-793.1366.745/1440.23.1920.1007/2080.-745.1280.697@1440.23.1920.1007" timestamp="1593735969662" />
   </component>
 </project>

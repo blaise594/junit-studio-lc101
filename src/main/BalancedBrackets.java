@@ -32,4 +32,15 @@ public class BalancedBrackets {
         }
         return brackets == 0;
     }
+    public static boolean hasBalancedBracketsAlso(String str) {
+        int brackets = 0;
+        for (char ch : str.toCharArray()) {
+            if (ch == '[') {
+                brackets++;
+            } else if (ch == ']') {
+                brackets--;
+            }
+        }
+        return brackets == 0;
+    }
 }
